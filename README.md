@@ -1,8 +1,8 @@
 
-# Instalación de Odoo en Ubuntu (VirtualBox)
+# Instalación de Odoo en Debian (VirtualBox)
 
 ## 1. Instalación normal de Debian
-En mi caso uso debian-xfce.
+En mi caso uso debian-xfce
 
 ## 2. Actualización del sistema
 Ejecutamos los siguientes comandos para actualizar el sistema:
