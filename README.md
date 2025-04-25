@@ -31,7 +31,7 @@ sudo shutdown now
 Configuramos los adaptadores de red:
 - **Adaptador 1:** "Adaptador puente"
 
-Reiniciamos Ubuntu y verificamos la IP asignada:
+Reiniciamos el sistema y verificamos la IP asignada:
 ```bash
 ip a
 ```
