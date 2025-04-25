@@ -279,7 +279,7 @@ http://{nuestra_ip}:8069
 ```
 
 Aquí podemos ver que estamos conectados:
-![se abre odoo](https://ibb.co/J61KDB9)
+![se abre odoo](images/image.png)
 
 
 ## para instalar pgAdmin
@@ -298,6 +298,6 @@ sudo apt install pgadmin4-desktop
 ```
 por el uso de nginx no se recomienda el uso de pgadmin web, ya que abria que configurarlo manualmente, ya que viene preparado para el uso con Apache
 
-![conexiones pg](https://ibb.co/4RCtKBsY)
-![pg conectado](https://ibb.co/qYr5MXnY)
+![conexiones pg](images/imagen_conexion_pg.png)
+![pg conectado](images/image_odoo_pg.png)
 
